@@ -1,4 +1,6 @@
 test_repo
 =========
 
-git hub test repo
+github 테스트 저장소 생성 공개 
+
+워드프레스 관련 프로젝트 진행
